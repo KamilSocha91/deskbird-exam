@@ -1,0 +1,28 @@
+# IDEs and editors
+.idea/
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.ui/node_modules
+.ui/dist
+.ui/coverage
+.ui/.env
+.ui/.vscode
+
+.api/node_modules
+.api/dist
+.api/coverage
+.api/.env
+.api/.vscode
